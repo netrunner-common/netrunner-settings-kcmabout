@@ -1,5 +1,5 @@
 [General]
 LogoPath=/usr/share/netrunner-artwork/netrunner.png
 Website=http://www.netrunner.com
-Name=Netrunner Core 1 "Paria"
+Name=Netrunner Core
 Version=@@BUILD_VERSION@@
