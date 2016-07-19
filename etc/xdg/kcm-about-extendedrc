@@ -2,4 +2,6 @@
 LogoPath=/usr/share/netrunner-artwork/netrunner.png
 Website=http://www.netrunner.com
 Name=Netrunner Core
-Version=@@BUILD_VERSION@@
+Version=1
+Release=Paria
+BuildStamp=@@BUILD_VERSION@@
