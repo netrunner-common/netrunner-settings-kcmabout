@@ -1,7 +1,3 @@
 [General]
 LogoPath=/usr/share/netrunner-artwork/netrunner.png
-Website=http://www.netrunner.com
-Name=Netrunner Core
-Version=16.09
-Release=Avalon
 BuildStamp=@@BUILD_VERSION@@
