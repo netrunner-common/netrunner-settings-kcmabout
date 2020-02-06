@@ -8,6 +8,7 @@ Homepage: https://github.com/netrunner-common/netrunner-settings-kcmabout
 
 Package: netrunner-settings-kcmabout
 Architecture: all
+Multi-Arch: foreign
 Depends: ${misc:Depends}
 Description: settings package for about-extended KCM
  Customization package for Netrunner's about-extended KCM
